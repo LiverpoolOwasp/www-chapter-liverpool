@@ -19,7 +19,15 @@ postal-code:
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
-{front matter for this file}
+Welcome to OWASP's Liverpool Chapter.
+
+Here you will find  Local News and information about Meetings.
+
+If anyone has any questions then please do not hesitate to get in touch.
+
+Everyone is welcome to join us at our chapter meetings.
+
+Category:OWASP Chapter
 
 ```
 - layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
